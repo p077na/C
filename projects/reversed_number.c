@@ -1,7 +1,7 @@
 #include <stdio.h>
 
-int main(void) {
-    int number = 6789;
+int main(void){
+    int number = 123456789;
 
     printf("Reversed number: ");
 

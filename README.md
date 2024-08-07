@@ -5,4 +5,3 @@ This repository contains a collection of beginner C programming problems and sol
 ## Repository Structure
 
 - `projects/` - Directory for various C problems and solutions.
-

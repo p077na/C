@@ -3,10 +3,10 @@
 
 int main(void){
     int x = 10;
-    printf("%d", pow(x, 2));
-    printf("%d", pow(x, 4));
-    printf("%d", pow(x, 6));
-    printf("%d", pow(x, 8));
+    printf("%.lf\n", pow(x, 2));
+    printf("%.lf\n", pow(x, 4));
+    printf("%.lf\n", pow(x, 6));
+    printf("%.lf\n", pow(x, 8));
 
     return 0;
 }
